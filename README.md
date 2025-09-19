@@ -1,4 +1,4 @@
-# PLP Week 5 — Object-Oriented Programming (OOP) Assignment
+# PLP Week 5-Object-Oriented Programming (OOP) Assignment
 
 This repository contains a short Python assignment from PLP that demonstrates basic Object-Oriented Programming (OOP) concepts: classes, encapsulation, constructors, methods, inheritance/polymorphism, and simple usage examples.
 
